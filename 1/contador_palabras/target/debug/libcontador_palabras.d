@@ -1,0 +1,1 @@
+/home/agustina/Documentos/Taller_I/Guia_Taller/1/contador_palabras/target/debug/libcontador_palabras.rlib: /home/agustina/Documentos/Taller_I/Guia_Taller/1/contador_palabras/src/lib.rs /home/agustina/Documentos/Taller_I/Guia_Taller/1/contador_palabras/src/read_line.rs
