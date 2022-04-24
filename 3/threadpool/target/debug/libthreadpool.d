@@ -1,0 +1,1 @@
+/home/agustina/Documentos/Taller_I/Guia_Taller/3/threadpool/target/debug/libthreadpool.rlib: /home/agustina/Documentos/Taller_I/Guia_Taller/3/threadpool/src/lib.rs /home/agustina/Documentos/Taller_I/Guia_Taller/3/threadpool/src/threadpool.rs
